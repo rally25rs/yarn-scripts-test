@@ -1,0 +1,13 @@
+{
+  "name": "yarn-scripts-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rally25rs/yarn-scripts-test.git",
+  "author": "Jeff Valore <rally25rs@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "echo PREINSTALL",
+    "install": "echo INSTALL",
+    "postinstall": "echo POSTINSTALL"
+  }
+}
